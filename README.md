@@ -4,7 +4,7 @@ I tried to build apis for Chat Server
 
 
 <p align="center">
-  <img src="https://github.com/rhiokim/docker-icons/blob/master/media/intro.png" width="100">
+  <img src="https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo-1.png" width="200">
 
 </p>
 
