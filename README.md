@@ -16,7 +16,7 @@ I tried to build apis for Chat Server
 ### Clone the repository
 
 ```
-git clone git@github.com:flavours/getting-started-with-spring-boot.git
+git clone git@github.com:ZuhriddinShamsiddinov/chat-server.git
 ```
 
 ### Build the project
