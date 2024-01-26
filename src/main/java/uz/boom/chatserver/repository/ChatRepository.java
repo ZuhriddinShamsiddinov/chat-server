@@ -1,13 +1,12 @@
 package uz.boom.chatserver.repository;
 
-import org.apache.catalina.LifecycleState;
+import java.util.List;
+
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import uz.boom.chatserver.domains.Chat;
 import uz.boom.chatserver.repository.base.BaseRepository;
-
-import java.util.List;
 
 /**
  * @author - 'Zuhriddin Shamsiddionov' at 2:07 PM 10/9/22 on Sunday in October
